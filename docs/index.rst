@@ -6,9 +6,16 @@
 Welcome to Django_Harman's documentation!
 =========================================
 
+This is a simple in use but highly complex in its
+development django library...Huuray feel free to
+contribute.Tests (TDD) are a must in any code i write.
+
+Contents:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   01-testing
 
 
 
