@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class DjangoFoobarConfig(AppConfig):
-    name = 'django_foobar'
+    name = 'django_Harman'
